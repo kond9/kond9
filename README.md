@@ -1,4 +1,4 @@
-# <div align="center">Я ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Никита Плёнкин</div>
+# <div align="center">Я ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Никита Плёнкин<br><br>Будущий Фулстек-разработчик<br> из VK Education</div>
 
 -   🔭 В данный момент работаю над [Socio](https://github.com/frontend-park-mail-ru/2024_1_VKPogromisty) в VK Education
 
