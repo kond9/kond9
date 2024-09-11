@@ -2,7 +2,7 @@
 
 -   🔭 В данный момент работаю над [Socio](https://github.com/frontend-park-mail-ru/2024_1_VKPogromisty) в VK Education
 
--   🌱 Сейчас изучаю JS
+-   🌱 Сейчас изучаю GO, JS
 
 -   ⚡ Фан-факт: я рыжий
     #### 📅 Хобби
